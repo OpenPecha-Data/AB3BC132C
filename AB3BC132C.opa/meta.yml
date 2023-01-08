@@ -1,0 +1,19 @@
+id: AB3BC132C
+title: Guru Yoga
+type: translation
+pechas:
+- I2D94D2D5
+- I1794BCB7
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:38:24.180445
+  last_modified_at: 2023-01-04 12:38:24.180451
+  collections:
+  - Jamyang Loter Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I2D94D2D5/C04E: 3C83
+  I1794BCB7/4499: 3C83
